@@ -2,7 +2,7 @@
 /* Given an array of integers, calculate the ratios of its elements that are positive, negative, and zero. Print the decimal value of each fraction on a new line with places after the decimal. */
 
 
-array=[1, 2, -10, 0, -4, 15, 100, -2, -0.17]
+let array = [1, 2, -10, 0, -4, 15, 100, -2, -0.17];
 
 function plusMinus(arr) {
   // Write your code here
