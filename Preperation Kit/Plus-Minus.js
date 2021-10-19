@@ -9,7 +9,7 @@ function plusMinus(arr) {
   let pos = 0
   let neg = 0
   let zero = 0
-  
+   
 arr.forEach((i)=>{
     if(i > 0){
         pos += 1;
